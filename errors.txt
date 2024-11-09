@@ -1,0 +1,3 @@
+valgrind error si cliquer sur croix pour fermer
+
+maps/ex02 on voit r -> 32x32?
